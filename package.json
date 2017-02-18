@@ -3,6 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
+    "node-sass": "^4.5.0",
+    "npm-run-all": "^4.0.1",
     "react-scripts": "0.9.0"
   },
   "dependencies": {
